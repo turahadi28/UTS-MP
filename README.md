@@ -181,6 +181,30 @@ flutter run
 
 ---
 
+
+
+
+## 📱 Tampilan Aplikasi
+
+### 🔐 Menu Login
+<p align="center">
+  <img src="https://i.imgur.com/m4WJXpY.png" width="300">
+</p>
+
+### 🔑 Menu Lupa Password
+<p align="center">
+  <img src="https://i.imgur.com/7ltcsIM.png" width="300">
+</p>
+
+### 🏠 Dashboard
+<p align="center">
+  <img src="https://i.imgur.com/sqHM6jw.png" width="300">
+</p>
+
+
+
+
+
 ## 🎯 Kesimpulan
 
 Aplikasi ini dibuat sederhana namun sudah memenuhi semua ketentuan UTS:
