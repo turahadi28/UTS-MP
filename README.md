@@ -205,14 +205,4 @@ flutter run
 
 
 
-## 🎯 Kesimpulan
 
-Aplikasi ini dibuat sederhana namun sudah memenuhi semua ketentuan UTS:
-
-* 3 halaman utama
-* Validasi form
-* State management
-* Navigasi
-* List data pada dashboard
-
----
